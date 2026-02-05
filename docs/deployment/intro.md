@@ -36,10 +36,9 @@ You need an OpenAPI definition. For testing purposes, you can use one of the fol
   - [Thingful OpenAPI Definition](https://raw.githubusercontent.com/thingful/openapi-spec/master/spec/swagger.yaml)
   - [Fitbit Plus OpenAPI Definition](https://raw.githubusercontent.com/TwineHealth/TwineDeveloperDocs/master/spec/swagger.yaml)
 
-{% admonition type="info" name="OpenAPI specification" %}
-For more information on the OpenAPI specification, refer to the [Learning OpenAPI 3](https://redocly.com/docs/resources/learning-openapi/)
-section in the documentation.
-{% /admonition %}
+> ℹ️ **Something**
+>
+> Текст
 
 ### How to run Redoc locally
 
